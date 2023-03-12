@@ -27,7 +27,7 @@ I used the following sites for my  research  during this assignment:
 3-Classmates
 4-TA’s and the instructor 
 
-Deploy Link:
+Deploy Link: https://dominicvn.github.io/quiz/
 
 
 
