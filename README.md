@@ -24,8 +24,6 @@ Credit:
 I used the following sites for my  research  during this assignment:
 1-google.com
 2- https://www.w3schools.com/, stackoverflow.com, bootstrap.com, class recording.    
-3-Classmates
-4-TA’s and the instructor 
 
 Deploy Link: https://dominicvn.github.io/quiz/
 
